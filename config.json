@@ -1,0 +1,22 @@
+{
+    "mattermost_allowed_users": [
+        {
+            "id": "1234",
+            "name": "ivanovii",
+            "kaiten_id": 123
+        },
+        {
+            "id": "4567",
+            "name": "petrovapp",
+            "kaiten_id": 456
+        },
+    ],
+    "mattermost": {
+        "host": "mattermost.mycompany.com",
+        "token": "my_token"
+    },
+    "kaiten": {
+        "host": "kaiten.mycompany.com",
+        "token": "my_token"
+    }
+}

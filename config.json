@@ -1,0 +1,22 @@
+{
+    "mattermost_allowed_users": [
+        {
+            "id": "1f84d516a1494c1b9057f89fb2eab2d0",
+            "name": "ivanovii",
+            "kaiten_id": 123
+        },
+        {
+            "id": "287422ffa5984bfd8fc720c0e1960fef",
+            "name": "petrovapp",
+            "kaiten_id": 456
+        },
+    ],
+    "mattermost": {
+        "host": "mattermost.mycompany.com",
+        "token": "4256f55502e64dd59471e424653b1d4d"
+    },
+    "kaiten": {
+        "host": "kaiten.mycompany.com",
+        "token": "e90c03b3-cddb-4053-a7ba-201b0e581e08"
+    }
+}

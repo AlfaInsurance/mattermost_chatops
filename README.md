@@ -18,23 +18,23 @@
 {
     "mattermost_allowed_users": [
         {
-            "id": "1234",
+            "id": "111",
             "name": "ivanovii",
             "kaiten_id": 123
         },
         {
-            "id": "4567",
+            "id": "222",
             "name": "petrovapp",
             "kaiten_id": 456
         },
     ],
     "mattermost": {
         "host": "mattermost.mycompany.com",
-        "token": "my_token"
+        "token": "12345"
     },
     "kaiten": {
         "host": "kaiten.mycompany.com",
-        "token": "my_token"
+        "token": "45467"
     }
 }
 ```
@@ -108,3 +108,4 @@ https://developers.kaiten.ru/
 * @bot Создай задачу \"Сделать бизнесу фичу\"
 * @bot Заведи таску в техдолге 'Обновить все фреймворки на последнюю версию'
 * @bot Новая задачка Распознавание печатей на документах
+
